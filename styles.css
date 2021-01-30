@@ -78,7 +78,7 @@ body {
 
 #second {
     width: 1.3%;
-    height: 36%;
+    height: 34%;
     background-color: #ff0000;
 }
 
@@ -90,7 +90,7 @@ body {
     background: #ff0000;
     transform: rotate(45deg); 
     -webkit-transform: rotate(45deg);
-    top: -4%;
+    top: -5%;
     left: -63%;
     z-index: -3;
 }
