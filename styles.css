@@ -91,6 +91,6 @@ body {
     transform: rotate(45deg); 
     -webkit-transform: rotate(45deg);
     top: -5%;
-    left: -60%;
+    left: -75%;
     z-index: -3;
 }
